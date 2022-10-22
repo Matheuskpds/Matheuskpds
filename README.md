@@ -1,8 +1,5 @@
-### Oii! Eu sou o Matheus! 👋
 
-- 🔭 Hoje faço faculdade de Ciência da Computação.
 - 🌱 Estudando Algoritmo e Estruturas de Dados.
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Matheuskpds">
