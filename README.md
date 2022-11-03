@@ -1,5 +1,5 @@
 
-- 🌱 Estudando Algoritmo e Estruturas de Dados.
+- 🌱 Estudando Algoritmo e Estruturas de Dados I.
 
 <div align="center">
   <a href="https://github.com/Matheuskpds">
