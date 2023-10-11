@@ -1,5 +1,5 @@
 
-- 🌱 Estudando Algoritmo e Estruturas de Dados II.
+- 🌱 Estudando Programação Orientada a Objetos, Banco de Dados e Grafos.
 
 <div align="center">
   <a href="https://github.com/Matheuskpds">
