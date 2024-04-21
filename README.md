@@ -1,5 +1,5 @@
 
-- 🌱 Estudando Programação Orientada a Objetos, Banco de Dados e Grafos.
+- 🌱 Estudando Engenharia de Software
 
 <div align="center">
   <a href="https://github.com/Matheuskpds">
