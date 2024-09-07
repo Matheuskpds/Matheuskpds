@@ -1,5 +1,6 @@
 
 - 🌱 Estudando Engenharia de Software
+- Angular - FrontEnd
 
 <div align="center">
   <a href="https://github.com/Matheuskpds">
