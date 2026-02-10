@@ -1,6 +1,6 @@
 
 - 🌱 Estudando Engenharia de Software
-- Angular
+- Angular/React
 - Trabalhando em um projeto para o SESC como Desenvolvedor Front-End
 
 <div align="center">
