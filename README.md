@@ -1,7 +1,5 @@
 
-- 🌱 Estudando Engenharia de Software
-- Angular/React
-- Trabalhando em um projeto para o SESC como Desenvolvedor Front-End
+- 🌱 Estudando Engenharia e Arquitetura de Software
 
 <div align="center">
   <a href="https://github.com/Matheuskpds">
